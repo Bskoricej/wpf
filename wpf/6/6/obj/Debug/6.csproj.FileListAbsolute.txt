@@ -1,0 +1,16 @@
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\App.g.cs
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6_MarkupCompile.cache
+C:\Users\Даша\Documents\practick\6\6\bin\Debug\6.exe.config
+C:\Users\Даша\Documents\practick\6\6\bin\Debug\6.exe
+C:\Users\Даша\Documents\practick\6\6\bin\Debug\6.pdb
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\MainWindow.g.cs
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6_MarkupCompile.lref
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\MainWindow.baml
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.g.resources
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\_6.Properties.Resources.resources
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.csproj.GenerateResource.cache
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.exe
+C:\Users\Даша\Documents\practick\6\6\obj\Debug\6.pdb

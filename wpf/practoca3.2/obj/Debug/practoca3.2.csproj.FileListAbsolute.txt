@@ -1,0 +1,15 @@
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\bin\Debug\practoca3.2.exe.config
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\bin\Debug\practoca3.2.exe
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\bin\Debug\practoca3.2.pdb
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.csproj.AssemblyReference.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\MainWindow.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\App.g.cs
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2_MarkupCompile.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\MainWindow.baml
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.g.resources
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3._2.Properties.Resources.resources
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.csproj.GenerateResource.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.csproj.CoreCompileInputs.cache
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.exe
+C:\Users\307-03\Documents\practicaaaaaa_teslooo\practoca3.2\obj\Debug\practoca3.2.pdb
